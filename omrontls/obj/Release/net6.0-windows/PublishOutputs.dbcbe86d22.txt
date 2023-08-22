@@ -1,0 +1,5 @@
+C:\Users\junxian428\source\repos\omrontls\omrontls\bin\Release\net6.0-windows\publish\omrontls.exe
+C:\Users\junxian428\source\repos\omrontls\omrontls\bin\Release\net6.0-windows\publish\omrontls.dll
+C:\Users\junxian428\source\repos\omrontls\omrontls\bin\Release\net6.0-windows\publish\omrontls.deps.json
+C:\Users\junxian428\source\repos\omrontls\omrontls\bin\Release\net6.0-windows\publish\omrontls.runtimeconfig.json
+C:\Users\junxian428\source\repos\omrontls\omrontls\bin\Release\net6.0-windows\publish\omrontls.pdb
